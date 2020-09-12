@@ -3,4 +3,4 @@
 <head>
   <title>Test for GITHUB MINI</title>
 </head>
-<body></body>
+</body>
